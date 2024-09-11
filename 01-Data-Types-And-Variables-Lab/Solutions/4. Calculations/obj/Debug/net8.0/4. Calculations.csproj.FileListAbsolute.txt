@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DataTypesAndVariables\4. Calculations\bin\Debug\net8.0\4. Calculations.exe
+C:\Users\User\source\repos\DataTypesAndVariables\4. Calculations\bin\Debug\net8.0\4. Calculations.deps.json
+C:\Users\User\source\repos\DataTypesAndVariables\4. Calculations\bin\Debug\net8.0\4. Calculations.runtimeconfig.json
+C:\Users\User\source\repos\DataTypesAndVariables\4. Calculations\bin\Debug\net8.0\4. Calculations.dll
+C:\Users\User\source\repos\DataTypesAndVariables\4. Calculations\bin\Debug\net8.0\4. Calculations.pdb
+C:\Users\User\source\repos\DataTypesAndVariables\4. Calculations\obj\Debug\net8.0\4. Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DataTypesAndVariables\4. Calculations\obj\Debug\net8.0\4. Calculations.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariables\4. Calculations\obj\Debug\net8.0\4. Calculations.AssemblyInfo.cs
+C:\Users\User\source\repos\DataTypesAndVariables\4. Calculations\obj\Debug\net8.0\4. Calculations.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariables\4. Calculations\obj\Debug\net8.0\4. Calculations.dll
+C:\Users\User\source\repos\DataTypesAndVariables\4. Calculations\obj\Debug\net8.0\refint\4. Calculations.dll
+C:\Users\User\source\repos\DataTypesAndVariables\4. Calculations\obj\Debug\net8.0\4. Calculations.pdb
+C:\Users\User\source\repos\DataTypesAndVariables\4. Calculations\obj\Debug\net8.0\4. Calculations.genruntimeconfig.cache
+C:\Users\User\source\repos\DataTypesAndVariables\4. Calculations\obj\Debug\net8.0\ref\4. Calculations.dll

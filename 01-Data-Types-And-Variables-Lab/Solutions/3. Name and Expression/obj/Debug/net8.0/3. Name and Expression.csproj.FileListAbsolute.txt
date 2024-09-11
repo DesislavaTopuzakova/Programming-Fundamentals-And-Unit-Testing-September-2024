@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DataTypesAndVariables\3. Name and Expression\bin\Debug\net8.0\3. Name and Expression.exe
+C:\Users\User\source\repos\DataTypesAndVariables\3. Name and Expression\bin\Debug\net8.0\3. Name and Expression.deps.json
+C:\Users\User\source\repos\DataTypesAndVariables\3. Name and Expression\bin\Debug\net8.0\3. Name and Expression.runtimeconfig.json
+C:\Users\User\source\repos\DataTypesAndVariables\3. Name and Expression\bin\Debug\net8.0\3. Name and Expression.dll
+C:\Users\User\source\repos\DataTypesAndVariables\3. Name and Expression\bin\Debug\net8.0\3. Name and Expression.pdb
+C:\Users\User\source\repos\DataTypesAndVariables\3. Name and Expression\obj\Debug\net8.0\3. Name and Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DataTypesAndVariables\3. Name and Expression\obj\Debug\net8.0\3. Name and Expression.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariables\3. Name and Expression\obj\Debug\net8.0\3. Name and Expression.AssemblyInfo.cs
+C:\Users\User\source\repos\DataTypesAndVariables\3. Name and Expression\obj\Debug\net8.0\3. Name and Expression.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariables\3. Name and Expression\obj\Debug\net8.0\3. Name and Expression.dll
+C:\Users\User\source\repos\DataTypesAndVariables\3. Name and Expression\obj\Debug\net8.0\refint\3. Name and Expression.dll
+C:\Users\User\source\repos\DataTypesAndVariables\3. Name and Expression\obj\Debug\net8.0\3. Name and Expression.pdb
+C:\Users\User\source\repos\DataTypesAndVariables\3. Name and Expression\obj\Debug\net8.0\3. Name and Expression.genruntimeconfig.cache
+C:\Users\User\source\repos\DataTypesAndVariables\3. Name and Expression\obj\Debug\net8.0\ref\3. Name and Expression.dll

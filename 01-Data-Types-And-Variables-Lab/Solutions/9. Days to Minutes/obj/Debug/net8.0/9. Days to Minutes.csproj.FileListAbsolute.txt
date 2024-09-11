@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DataTypesAndVariables\9. Days to Minutes\bin\Debug\net8.0\9. Days to Minutes.exe
+C:\Users\User\source\repos\DataTypesAndVariables\9. Days to Minutes\bin\Debug\net8.0\9. Days to Minutes.deps.json
+C:\Users\User\source\repos\DataTypesAndVariables\9. Days to Minutes\bin\Debug\net8.0\9. Days to Minutes.runtimeconfig.json
+C:\Users\User\source\repos\DataTypesAndVariables\9. Days to Minutes\bin\Debug\net8.0\9. Days to Minutes.dll
+C:\Users\User\source\repos\DataTypesAndVariables\9. Days to Minutes\bin\Debug\net8.0\9. Days to Minutes.pdb
+C:\Users\User\source\repos\DataTypesAndVariables\9. Days to Minutes\obj\Debug\net8.0\9. Days to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DataTypesAndVariables\9. Days to Minutes\obj\Debug\net8.0\9. Days to Minutes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariables\9. Days to Minutes\obj\Debug\net8.0\9. Days to Minutes.AssemblyInfo.cs
+C:\Users\User\source\repos\DataTypesAndVariables\9. Days to Minutes\obj\Debug\net8.0\9. Days to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariables\9. Days to Minutes\obj\Debug\net8.0\9. Days to Minutes.dll
+C:\Users\User\source\repos\DataTypesAndVariables\9. Days to Minutes\obj\Debug\net8.0\refint\9. Days to Minutes.dll
+C:\Users\User\source\repos\DataTypesAndVariables\9. Days to Minutes\obj\Debug\net8.0\9. Days to Minutes.pdb
+C:\Users\User\source\repos\DataTypesAndVariables\9. Days to Minutes\obj\Debug\net8.0\9. Days to Minutes.genruntimeconfig.cache
+C:\Users\User\source\repos\DataTypesAndVariables\9. Days to Minutes\obj\Debug\net8.0\ref\9. Days to Minutes.dll

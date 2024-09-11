@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DataTypesAndVariables\1. Hello C#\bin\Debug\net8.0\1. Hello C#.exe
+C:\Users\User\source\repos\DataTypesAndVariables\1. Hello C#\bin\Debug\net8.0\1. Hello C#.deps.json
+C:\Users\User\source\repos\DataTypesAndVariables\1. Hello C#\bin\Debug\net8.0\1. Hello C#.runtimeconfig.json
+C:\Users\User\source\repos\DataTypesAndVariables\1. Hello C#\bin\Debug\net8.0\1. Hello C#.dll
+C:\Users\User\source\repos\DataTypesAndVariables\1. Hello C#\bin\Debug\net8.0\1. Hello C#.pdb
+C:\Users\User\source\repos\DataTypesAndVariables\1. Hello C#\obj\Debug\net8.0\1. Hello C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DataTypesAndVariables\1. Hello C#\obj\Debug\net8.0\1. Hello C#.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariables\1. Hello C#\obj\Debug\net8.0\1. Hello C#.AssemblyInfo.cs
+C:\Users\User\source\repos\DataTypesAndVariables\1. Hello C#\obj\Debug\net8.0\1. Hello C#.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariables\1. Hello C#\obj\Debug\net8.0\1. Hello C#.dll
+C:\Users\User\source\repos\DataTypesAndVariables\1. Hello C#\obj\Debug\net8.0\refint\1. Hello C#.dll
+C:\Users\User\source\repos\DataTypesAndVariables\1. Hello C#\obj\Debug\net8.0\1. Hello C#.pdb
+C:\Users\User\source\repos\DataTypesAndVariables\1. Hello C#\obj\Debug\net8.0\1. Hello C#.genruntimeconfig.cache
+C:\Users\User\source\repos\DataTypesAndVariables\1. Hello C#\obj\Debug\net8.0\ref\1. Hello C#.dll

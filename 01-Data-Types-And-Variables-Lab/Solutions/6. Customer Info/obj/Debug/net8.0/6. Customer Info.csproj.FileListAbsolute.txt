@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DataTypesAndVariables\6. Customer Info\bin\Debug\net8.0\6. Customer Info.exe
+C:\Users\User\source\repos\DataTypesAndVariables\6. Customer Info\bin\Debug\net8.0\6. Customer Info.deps.json
+C:\Users\User\source\repos\DataTypesAndVariables\6. Customer Info\bin\Debug\net8.0\6. Customer Info.runtimeconfig.json
+C:\Users\User\source\repos\DataTypesAndVariables\6. Customer Info\bin\Debug\net8.0\6. Customer Info.dll
+C:\Users\User\source\repos\DataTypesAndVariables\6. Customer Info\bin\Debug\net8.0\6. Customer Info.pdb
+C:\Users\User\source\repos\DataTypesAndVariables\6. Customer Info\obj\Debug\net8.0\6. Customer Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DataTypesAndVariables\6. Customer Info\obj\Debug\net8.0\6. Customer Info.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariables\6. Customer Info\obj\Debug\net8.0\6. Customer Info.AssemblyInfo.cs
+C:\Users\User\source\repos\DataTypesAndVariables\6. Customer Info\obj\Debug\net8.0\6. Customer Info.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariables\6. Customer Info\obj\Debug\net8.0\6. Customer Info.dll
+C:\Users\User\source\repos\DataTypesAndVariables\6. Customer Info\obj\Debug\net8.0\refint\6. Customer Info.dll
+C:\Users\User\source\repos\DataTypesAndVariables\6. Customer Info\obj\Debug\net8.0\6. Customer Info.pdb
+C:\Users\User\source\repos\DataTypesAndVariables\6. Customer Info\obj\Debug\net8.0\6. Customer Info.genruntimeconfig.cache
+C:\Users\User\source\repos\DataTypesAndVariables\6. Customer Info\obj\Debug\net8.0\ref\6. Customer Info.dll

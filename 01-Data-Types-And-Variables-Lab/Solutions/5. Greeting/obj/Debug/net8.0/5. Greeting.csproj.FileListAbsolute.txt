@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DataTypesAndVariables\5. Greeting\bin\Debug\net8.0\5. Greeting.exe
+C:\Users\User\source\repos\DataTypesAndVariables\5. Greeting\bin\Debug\net8.0\5. Greeting.deps.json
+C:\Users\User\source\repos\DataTypesAndVariables\5. Greeting\bin\Debug\net8.0\5. Greeting.runtimeconfig.json
+C:\Users\User\source\repos\DataTypesAndVariables\5. Greeting\bin\Debug\net8.0\5. Greeting.dll
+C:\Users\User\source\repos\DataTypesAndVariables\5. Greeting\bin\Debug\net8.0\5. Greeting.pdb
+C:\Users\User\source\repos\DataTypesAndVariables\5. Greeting\obj\Debug\net8.0\5. Greeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DataTypesAndVariables\5. Greeting\obj\Debug\net8.0\5. Greeting.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariables\5. Greeting\obj\Debug\net8.0\5. Greeting.AssemblyInfo.cs
+C:\Users\User\source\repos\DataTypesAndVariables\5. Greeting\obj\Debug\net8.0\5. Greeting.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariables\5. Greeting\obj\Debug\net8.0\5. Greeting.dll
+C:\Users\User\source\repos\DataTypesAndVariables\5. Greeting\obj\Debug\net8.0\refint\5. Greeting.dll
+C:\Users\User\source\repos\DataTypesAndVariables\5. Greeting\obj\Debug\net8.0\5. Greeting.pdb
+C:\Users\User\source\repos\DataTypesAndVariables\5. Greeting\obj\Debug\net8.0\5. Greeting.genruntimeconfig.cache
+C:\Users\User\source\repos\DataTypesAndVariables\5. Greeting\obj\Debug\net8.0\ref\5. Greeting.dll
