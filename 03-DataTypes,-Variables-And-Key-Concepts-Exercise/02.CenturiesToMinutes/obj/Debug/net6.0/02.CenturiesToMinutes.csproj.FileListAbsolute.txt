@@ -1,0 +1,14 @@
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiesToMinutes\bin\Debug\net6.0\02.CenturiesToMinutes.exe
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiesToMinutes\bin\Debug\net6.0\02.CenturiesToMinutes.deps.json
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiesToMinutes\bin\Debug\net6.0\02.CenturiesToMinutes.runtimeconfig.json
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiesToMinutes\bin\Debug\net6.0\02.CenturiesToMinutes.dll
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiesToMinutes\bin\Debug\net6.0\02.CenturiesToMinutes.pdb
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiesToMinutes\obj\Debug\net6.0\02.CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiesToMinutes\obj\Debug\net6.0\02.CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiesToMinutes\obj\Debug\net6.0\02.CenturiesToMinutes.AssemblyInfo.cs
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiesToMinutes\obj\Debug\net6.0\02.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiesToMinutes\obj\Debug\net6.0\02.CenturiesToMinutes.dll
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiesToMinutes\obj\Debug\net6.0\refint\02.CenturiesToMinutes.dll
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiesToMinutes\obj\Debug\net6.0\02.CenturiesToMinutes.pdb
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiesToMinutes\obj\Debug\net6.0\02.CenturiesToMinutes.genruntimeconfig.cache
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\02.CenturiesToMinutes\obj\Debug\net6.0\ref\02.CenturiesToMinutes.dll

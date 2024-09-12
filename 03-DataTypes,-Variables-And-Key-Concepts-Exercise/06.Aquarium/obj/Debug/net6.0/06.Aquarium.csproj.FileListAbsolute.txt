@@ -1,0 +1,14 @@
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\06.Aquarium\bin\Debug\net6.0\06.Aquarium.exe
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\06.Aquarium\bin\Debug\net6.0\06.Aquarium.deps.json
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\06.Aquarium\bin\Debug\net6.0\06.Aquarium.runtimeconfig.json
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\06.Aquarium\bin\Debug\net6.0\06.Aquarium.dll
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\06.Aquarium\bin\Debug\net6.0\06.Aquarium.pdb
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\06.Aquarium\obj\Debug\net6.0\06.Aquarium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\06.Aquarium\obj\Debug\net6.0\06.Aquarium.AssemblyInfoInputs.cache
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\06.Aquarium\obj\Debug\net6.0\06.Aquarium.AssemblyInfo.cs
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\06.Aquarium\obj\Debug\net6.0\06.Aquarium.csproj.CoreCompileInputs.cache
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\06.Aquarium\obj\Debug\net6.0\06.Aquarium.dll
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\06.Aquarium\obj\Debug\net6.0\refint\06.Aquarium.dll
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\06.Aquarium\obj\Debug\net6.0\06.Aquarium.pdb
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\06.Aquarium\obj\Debug\net6.0\06.Aquarium.genruntimeconfig.cache
+C:\Users\diyan\source\repos\03.DataTypes,VariablesAndKeyConcepts-Exercise\06.Aquarium\obj\Debug\net6.0\ref\06.Aquarium.dll
